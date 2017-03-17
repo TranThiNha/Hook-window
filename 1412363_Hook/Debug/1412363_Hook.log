@@ -1,0 +1,15 @@
+﻿Build started 11/7/2016 7:37:30 PM.
+     1>Project "E:\Visual Studio 2013\Projects\1412363_Hook\1412363_Hook\1412363_Hook.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\1412363_Hook.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt 1412363_Hook.cpp
+         1412363_Hook.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Visual Studio 2013\Projects\1412363_Hook\Debug\1412363_Hook.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Visual Studio 2013\Projects\1412363_Hook\Debug\1412363_Hook.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Visual Studio 2013\Projects\1412363_Hook\Debug\1412363_Hook.lib" /MACHINE:X86 Debug\1412363_Hook.res
+         Debug\1412363_Hook.obj
+         Debug\stdafx.obj
+         1412363_Hook.vcxproj -> E:\Visual Studio 2013\Projects\1412363_Hook\Debug\1412363_Hook.exe
+     1>Done Building Project "E:\Visual Studio 2013\Projects\1412363_Hook\1412363_Hook\1412363_Hook.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.41
